@@ -19,10 +19,8 @@ I'm open to collaborations on projects that involve:
 ## 📫 How to Reach Me
 Feel free to connect with me on GitHub or drop me a line:
 - GitHub: [ThePrimeSam](https://github.com/ThePrimeSam)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [theprimesam@gmail.com](theprimesam@gmail.com)
 
-## 😄 Pronouns
-I go by **[Your Pronouns Here]**. Please feel free to use any pronouns that are comfortable.
 
 ## ⚡ Fun Fact
 I have a knack for turning even the most complex challenges into opportunities for creativity and growth. Plus, I love a good puzzle—whether it's coding or solving riddles in my spare time!
